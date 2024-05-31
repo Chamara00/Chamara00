@@ -6,11 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/chamara_00" target="blank"><img src="https://img.shields.io/twitter/follow/chamara_00?logo=twitter&style=for-the-badge" alt="chamara_00" /></a> </p>
 
-- 🌱 I’m currently learning **React, Flutter, Node**
-
-- 💬 Ask me about **Flutter, MERN**
-
-- 📫 How to reach me **chamara.wimalaweera@gmail.com**
+- 📫 How to reach me **contact@chamarawimalaweera.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chamara00&show_icons=true&locale=en" alt="chamara00" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chamara00&" alt="chamara00" /></p>
+
