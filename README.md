@@ -21,6 +21,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chamara00&show_icons=true&locale=en&layout=compact" alt="chamara00" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chamara00&show_icons=true&locale=en" alt="chamara00" /></p>
-
 
